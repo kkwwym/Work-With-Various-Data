@@ -4,8 +4,7 @@ There are four different type data I am going to analyze, including text data, g
 
 ### Text Data
 
-The dataset includes data gathered from videos on YouTube that are contained within the trending category each day.  
-I am going to perform sentiment score and emoji performance.  
+The dataset includes data gathered from videos on YouTube that are contained within the trending category each day. I am going to perform sentiment score and emoji performance.  
 Dataset from [Kaggle](https://www.kaggle.com/datasets/datasnaek/youtube)  
 
 [**CHECK IT OUT NOW !!!** 👀 ](https://github.com/kkwwym/Work-With-Various-Data/blob/main/Text%20Data%20Analyze%20by%20Using%20Youtube%20Dataset.ipynb)
